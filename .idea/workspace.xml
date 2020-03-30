@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6e28fea-f20a-4e9e-a6c6-51a4d47eb74b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/user/Seacrh.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/Seacrh.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/user/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/user/User.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,6 +40,11 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\User\AppData\Roaming\npm\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\repos\personal\github-finder\src\context\github" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -65,7 +73,8 @@
       <workItem from="1583601065227" duration="6867000" />
       <workItem from="1583738315910" duration="8000" />
       <workItem from="1583872565016" duration="5216000" />
-      <workItem from="1584224721462" duration="6612000" />
+      <workItem from="1584224721462" duration="7192000" />
+      <workItem from="1585484846501" duration="8621000" />
     </task>
     <servers />
   </component>
